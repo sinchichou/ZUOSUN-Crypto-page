@@ -18,6 +18,13 @@
     ![9841099400530750266](https://hackmd.io/_uploads/rJ2yi7pPke.png)
 
 
+## 交易所
+
+- 我們使用MEXC交易所
+    使用我們的連結註冊及領10USDT(真U) 
+    [註冊連結](https://www.mexc.com/zh-TW/invite/customer-register?inviteCode=mexc-2mZt1)
+
+
 ## 我們的社群連結
 - 𝓒𝓻𝔂𝓹𝓽𝓸-逐日交易聯盟 🍻 [Line連結](https://line.me/ti/g2/yJSGB_06oEvGAaflwA3dyV-9FAmN2zP5RBHS7Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
 - 𝓒𝓻𝔂𝓹𝓽𝓸-逐日交易聯盟 🍻 [Discord連結](https://discord.gg/f2DUhH6N)
