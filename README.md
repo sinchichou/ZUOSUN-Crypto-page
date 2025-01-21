@@ -15,7 +15,6 @@
 - 我們使用MEXC交易所
     使用我們的連結註冊及領10USDT(真U) 
     [註冊連結](https://www.mexc.com/zh-TW/invite/customer-register?inviteCode=mexc-2mZt1)
-    ![9841099400530750266]([https://hackmd.io/_uploads/rJ2yi7pPke.png](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_75326434f744d11f29809b87942e4a5b.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1737469540&Signature=EZTznCStYSEDUUqGCcTURGo4Yi0%3D))
 
 
 ## 交易所
