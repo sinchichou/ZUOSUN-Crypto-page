@@ -56,3 +56,7 @@ pre {
     color: #ffffff;
     white-space: pre-wrap; /* 允許換行 */
 }
+img {
+    max-width: 100%;
+    height: auto;
+}
