@@ -15,7 +15,7 @@
 - 我們使用MEXC交易所
     使用我們的連結註冊及領10USDT(真U) 
     [註冊連結](https://www.mexc.com/zh-TW/invite/customer-register?inviteCode=mexc-2mZt1)
-
+   ![9841099400530750266](https://github.com/sinchichou/ZUOSUN-Crypto-page.github.io/blob/main/data/9841099400530750266.png)
 
 ## 我們的社群連結
 - 𝓒𝓻𝔂𝓹𝓽𝓸-逐日交易聯盟 🍻 [Line連結](https://line.me/ti/g2/yJSGB_06oEvGAaflwA3dyV-9FAmN2zP5RBHS7Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
